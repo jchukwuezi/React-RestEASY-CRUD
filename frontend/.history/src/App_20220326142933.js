@@ -7,31 +7,15 @@ function App() {
   
   const createTask =(e) =>{
     e.preventDefault()
-    fetch("http://localhost:8080/react-resteasy-crud-server/restful-services/task/add",{
+    fetch("",{
       method: 'POST',
       headers: {"Content-Type": "application/json"},
       body: JSON.stringify({
         Task: {
             taskBody: taskBody
         }
-      })
-    })
-    .then((res)=>{
-        if(!res.ok){
-          const errorCheck = async() => {
-              alert(await res.text())
-          }
-          errorCheck();
-        }
-      else{
-        const successCheck = async() => {
-            alert(await res.text())
-          }
-          successCheck();
-        }
-      })
-    .catch((err)=>{
-      console.log(err)
+    }),
+
     })
   }
 
