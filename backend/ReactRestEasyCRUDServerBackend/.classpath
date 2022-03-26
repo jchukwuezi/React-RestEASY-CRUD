@@ -134,5 +134,8 @@
 	<classpathentry kind="lib" path="C:/Users/Joshua Chukwuezi/Downloads/hibernate-release-5.5.7.Final/hibernate-release-5.5.7.Final/lib/required/stax-ex-1.8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Joshua Chukwuezi/Downloads/hibernate-release-5.5.7.Final/hibernate-release-5.5.7.Final/lib/required/txw2-2.3.1.jar"/>
 	<classpathentry kind="lib" path="C:/javax/ws/rs/api/main/jboss-jaxrs-api_2.1_spec-2.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Chukwuezi/Downloads/hibernate-release-5.5.7.Final/hibernate-release-5.5.7.Final/lib/jpa-metamodel-generator/hibernate-jpamodelgen-5.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Chukwuezi/Downloads/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua Chukwuezi/BUSINESS COMPUTING/Year 4/DistributedSystems/REST/jaxrs-ri-2.35/jaxrs-ri/ext/jakarta.servlet-api-4.0.3.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
